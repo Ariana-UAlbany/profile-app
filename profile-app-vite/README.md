@@ -1,3 +1,7 @@
+# Individual Assignment Part 1
+Small description of what this app is:
+This is a react app that will showcase my profile for ICSI518SE
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
